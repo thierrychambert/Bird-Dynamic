@@ -1,0 +1,145 @@
+Espèce;NomLatin;Class;Age;Survie;Fecund
+Pingouin torda;Alca torda;Juv;0;0.63;0
+Pingouin torda;Alca torda;Imm;1;0.63;0
+Pingouin torda;Alca torda;Imm;2;0.63;0
+Pingouin torda;Alca torda;Imm;3;0.941;0
+Pingouin torda;Alca torda;Adu;>3;0.927;0.543
+Guifette noire;Chlidonias niger;Juv;0;0.44;0
+Guifette noire;Chlidonias niger;Imm;1;0.595;0
+Guifette noire;Chlidonias niger;Adu;>1;0.849;0.565
+Mouette rieuse;Chroicocephalus ridibundus;Juv;0;0.213;0
+Mouette rieuse;Chroicocephalus ridibundus;Imm;1;0.59;0
+Mouette rieuse;Chroicocephalus ridibundus;Sub;2;0.9;0.135
+Mouette rieuse;Chroicocephalus ridibundus;Sub;3;0.9;0.344
+Mouette rieuse;Chroicocephalus ridibundus;Sub;4;0.9;0.468
+Mouette rieuse;Chroicocephalus ridibundus;Adu;>4;0.87;0.564
+Macareux moine;Fratercula arctica;Juv;0;0.7445;0
+Macareux moine;Fratercula arctica;Imm;1;0.783;0
+Macareux moine;Fratercula arctica;Imm;2;0.783;0
+Macareux moine;Fratercula arctica;Sub;3;0.776;0.007
+Macareux moine;Fratercula arctica;Sub;4;0.776;0.086
+Macareux moine;Fratercula arctica;Sub;5;0.757;0.25
+Macareux moine;Fratercula arctica;Sub;6;0.773;0.4
+Macareux moine;Fratercula arctica;Adu;>6;0.9;0.714
+Fulmar boréal;Fulmarus glacialis;Juv;0;0.26;0
+Fulmar boréal;Fulmarus glacialis;Imm;1;0.88;0
+Fulmar boréal;Fulmarus glacialis;Imm;2;0.88;0
+Fulmar boréal;Fulmarus glacialis;Imm;3;0.88;0
+Fulmar boréal;Fulmarus glacialis;Imm;4;0.88;0
+Fulmar boréal;Fulmarus glacialis;Sub;5;0.88;0.008
+Fulmar boréal;Fulmarus glacialis;Sub;6;0.88;0.034
+Fulmar boréal;Fulmarus glacialis;Sub;7;0.88;0.091
+Fulmar boréal;Fulmarus glacialis;Sub;8;0.88;0.144
+Fulmar boréal;Fulmarus glacialis;Sub;9;0.88;0.17
+Fulmar boréal;Fulmarus glacialis;Sub;10;0.934;0.215
+Fulmar boréal;Fulmarus glacialis;Sub;11;0.934;0.246
+Fulmar boréal;Fulmarus glacialis;Sub;12;0.934;0.287
+Fulmar boréal;Fulmarus glacialis;Sub;13;0.934;0.31
+Fulmar boréal;Fulmarus glacialis;Sub;14;0.934;0.329
+Fulmar boréal;Fulmarus glacialis;Adu;>14;0.934;0.378
+Océanite tempête;Hydrobates pelagicus;Juv;0;0.325;0
+Océanite tempête;Hydrobates pelagicus;Imm;1;0.55;0
+Océanite tempête;Hydrobates pelagicus;Imm;2;0.552;0
+Océanite tempête;Hydrobates pelagicus;Sub;3;0.595;0.053
+Océanite tempête;Hydrobates pelagicus;Sub;4;0.897;0.44
+Océanite tempête;Hydrobates pelagicus;Adu;>4;0.896;0.478
+Mouette mélanocéphale;Ichthyaetus melanocephalus;Juv;0;0.213;0
+Mouette mélanocéphale;Ichthyaetus melanocephalus;Imm;1;0.55;0
+Mouette mélanocéphale;Ichthyaetus melanocephalus;Adu;>1;0.84;0.595
+Goéland argenté;Larus argentatus;Juv;0;0.629;0
+Goéland argenté;Larus argentatus;Imm;1;0.72;0
+Goéland argenté;Larus argentatus;Imm;2;0.881;0
+Goéland argenté;Larus argentatus;Imm;3;0.918;0
+Goéland argenté;Larus argentatus;Sub;4;0.918;0.317
+Goéland argenté;Larus argentatus;Sub;5;0.918;0.69
+Goéland argenté;Larus argentatus;Sub;6;0.918;0.857
+Goéland argenté;Larus argentatus;Adu;>6;0.875;0.932
+Goéland cendré;Larus canus;Juv;0;0.41;0
+Goéland cendré;Larus canus;Imm;1;0.41;0
+Goéland cendré;Larus canus;Sub;2;0.71;0.043
+Goéland cendré;Larus canus;Sub;3;0.81;0.319
+Goéland cendré;Larus canus;Adu;>3;0.896;0.541
+Goéland brun;Larus fuscus;Juv;0;0.82;0
+Goéland brun;Larus fuscus;Imm;1;0.885;0
+Goéland brun;Larus fuscus;Imm;2;0.885;0
+Goéland brun;Larus fuscus;Imm;3;0.885;0
+Goéland brun;Larus fuscus;Adu;>3;0.891;0.496
+Goéland marin;Larus marinus;Juv;0;0.82;0
+Goéland marin;Larus marinus;Imm;1;0.885;0
+Goéland marin;Larus marinus;Imm;2;0.885;0
+Goéland marin;Larus marinus;Imm;3;0.885;0
+Goéland marin;Larus marinus;Adu;>3;0.864;1.063
+Goéland leucophée;Larus michahellis;Juv;0;0.629;0
+Goéland leucophée;Larus michahellis;Imm;1;0.543;0
+Goéland leucophée;Larus michahellis;Imm;2;0.708;0
+Goéland leucophée;Larus michahellis;Adu;>2;0.756;1.148
+Fou de Bassan;Morus bassanus;Juv;0;0.387;0
+Fou de Bassan;Morus bassanus;Imm;1;0.497;0
+Fou de Bassan;Morus bassanus;Imm;2;0.889;0
+Fou de Bassan;Morus bassanus;Adu;>2;0.893;0.516
+Cormoran huppé;Phalacrocorax aristotelis;Juv;0;0.4765;0
+Cormoran huppé;Phalacrocorax aristotelis;Imm;1;0.461;0
+Cormoran huppé;Phalacrocorax aristotelis;Sub;2;0.732;0.65
+Cormoran huppé;Phalacrocorax aristotelis;Adu;>2;0.807;1.383
+Grand cormoran;Phalacrocorax carbo;Juv;0;0.52;0
+Grand cormoran;Phalacrocorax carbo;Imm;1;0.422;0
+Grand cormoran;Phalacrocorax carbo;Sub;2;0.683;0.675
+Grand cormoran;Phalacrocorax carbo;Sub;3;0.844;1.195
+Grand cormoran;Phalacrocorax carbo;Sub;4;0.844;1.504
+Grand cormoran;Phalacrocorax carbo;Sub;5;0.844;1.677
+Grand cormoran;Phalacrocorax carbo;Adu;>5;0.862;1.928
+Puffin des Baléares;Puffinus mauretanicus;Juv;0;0.325;0
+Puffin des Baléares;Puffinus mauretanicus;Imm;1;0.434;0
+Puffin des Baléares;Puffinus mauretanicus;Imm;2;0.434;0
+Puffin des Baléares;Puffinus mauretanicus;Sub;3;0.809;0.019
+Puffin des Baléares;Puffinus mauretanicus;Sub;4;0.809;0.171
+Puffin des Baléares;Puffinus mauretanicus;Sub;5;0.809;0.444
+Puffin des Baléares;Puffinus mauretanicus;Adu;>5;0.809;0.634
+Puffin des Anglais;Puffinus puffinus;Juv;0;0.325;0
+Puffin des Anglais;Puffinus puffinus;Imm;1;0.825;0
+Puffin des Anglais;Puffinus puffinus;Imm;2;0.825;0
+Puffin des Anglais;Puffinus puffinus;Imm;3;0.825;0
+Puffin des Anglais;Puffinus puffinus;Imm;4;0.825;0
+Puffin des Anglais;Puffinus puffinus;Adu;>4;0.875;0.677
+Mouette tridactyle;Rissa tridactyla;Juv;0;0.72;0
+Mouette tridactyle;Rissa tridactyla;Imm;1;0.53;0
+Mouette tridactyle;Rissa tridactyla;Imm;2;0.86;0
+Mouette tridactyle;Rissa tridactyla;Sub;3;0.84;0.175
+Mouette tridactyle;Rissa tridactyla;Sub;4;0.865;0.479
+Mouette tridactyle;Rissa tridactyla;Sub;5;0.865;0.646
+Mouette tridactyle;Rissa tridactyla;Sub;6;0.865;0.714
+Mouette tridactyle;Rissa tridactyla;Sub;7;0.865;0.752
+Mouette tridactyle;Rissa tridactyla;Adu;>7;0.856;0.76
+Sterne de Dougall;Sterna dougallii;Juv;0;0.441;0
+Sterne de Dougall;Sterna dougallii;Imm;1;0.583;0
+Sterne de Dougall;Sterna dougallii;Sub;2;0.671;0.011
+Sterne de Dougall;Sterna dougallii;Sub;3;0.843;0.572
+Sterne de Dougall;Sterna dougallii;Sub;4;0.824;0.695
+Sterne de Dougall;Sterna dougallii;Sub;5;0.824;1.02
+Sterne de Dougall;Sterna dougallii;Adu;>5;0.83;1.121
+Sterne pierregarin;Sterna hirundo;Juv;0;0.441;0
+Sterne pierregarin;Sterna hirundo;Imm;1;0.565;0
+Sterne pierregarin;Sterna hirundo;Sub;2;0.55;0.051
+Sterne pierregarin;Sterna hirundo;Sub;3;0.83;0.533
+Sterne pierregarin;Sterna hirundo;Sub;4;0.84;0.753
+Sterne pierregarin;Sterna hirundo;Sub;5;0.875;0.829
+Sterne pierregarin;Sterna hirundo;Adu;>5;0.895;0.846
+Sterne caugek;Thalasseus sandvicensis;Juv;0;0.304;0
+Sterne caugek;Thalasseus sandvicensis;Imm;1;0.549;0
+Sterne caugek;Thalasseus sandvicensis;Imm;2;0.741;0
+Sterne caugek;Thalasseus sandvicensis;Sub;3;0.741;0.007
+Sterne caugek;Thalasseus sandvicensis;Sub;4;0.898;0.132
+Sterne caugek;Thalasseus sandvicensis;Sub;5;0.898;0.299
+Sterne caugek;Thalasseus sandvicensis;Sub;6;0.898;0.383
+Sterne caugek;Thalasseus sandvicensis;Sub;7;0.898;0.459
+Sterne caugek;Thalasseus sandvicensis;Sub;8;0.898;0.55
+Sterne caugek;Thalasseus sandvicensis;Adu;>8;0.884;0.696
+Guillemot de Troïl;Uria aalge;Juv;0;0.56;0
+Guillemot de Troïl;Uria aalge;Imm;1;0.558;0
+Guillemot de Troïl;Uria aalge;Imm;2;0.712;0
+Guillemot de Troïl;Uria aalge;Imm;3;0.894;0
+Guillemot de Troïl;Uria aalge;Sub;4;0.887;0.027
+Guillemot de Troïl;Uria aalge;Sub;5;0.951;0.206
+Guillemot de Troïl;Uria aalge;Sub;6;0.951;0.412
+Guillemot de Troïl;Uria aalge;Sub;7;0.951;0.625
+Guillemot de Troïl;Uria aalge;Adu;>7;0.954;0.665

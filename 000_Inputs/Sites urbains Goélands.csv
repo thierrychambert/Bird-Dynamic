@@ -1,0 +1,111 @@
+SRM;DEPT;secteur;localite_colonie;sous_unite
+GdG-N;29;AVEN ET BELON;QUIMPERLE;Colonie urbaine
+GdG-N;29;BAIE DE LA FORET;concarneau;Colonie urbaine
+GdG-N;29;BAIE DE LA FORET;TREGUNC;Colonie urbaine
+GdG-N;29;COTES BIGOUDENN;guilvinec;Colonie urbaine
+GdG-N;29;COTES BIGOUDENN;LOCTUDY;Colonie urbaine
+GdG-N;29;COTES BIGOUDENN;penmarch;Colonie urbaine
+GdG-N;29;COTES BIGOUDENN;plobannalec-lesconil;Colonie urbaine
+GdG-N;29;COTES BIGOUDENN;PONT-L'ABBE;Colonie urbaine
+GdG-N;29;COTES BIGOUDENN;Treffiagat;Colonie urbaine
+GdG-N;29;RIVIERE DE L'ODET;Bénodet;Colonie urbaine
+GdG-N;29;RIVIERE DE L'ODET;QUIMPER;Colonie urbaine
+GdG-N;44;LOIRE EMBOUCHURE;Ville de La Baule;Colonie urbaine
+GdG-N;44;LOIRE ESTUARIENNE;Ville de Saint-Nazaire;Colonie urbaine
+GdG-N;44;PRESQU'ILE GUERANDAISE;PRESQU'ILE GUERANDAISE;Colonies urbaines
+GdG-N;44;PRESQU'ILE GUERANDAISE;Ville de Guérande;Colonie urbaine
+GdG-N;44;PRESQU'ILE GUERANDAISE;Ville de La Turballe;Colonie urbaine
+GdG-N;44;PRESQU'ILE GUERANDAISE;Ville du Croisic;Colonie urbaine
+GdG-N;56;GOLFE DU MORBIHAN;Agglomération Vannetaise;Colonie urbaine
+GdG-N;56;PRESQU'ILE DE QUIBERON;Ville de QUIBERON;Colonies urbaines
+GdG-N;56;RADE DE LORIENT;CAUDAN;Colonie urbaine
+GdG-N;56;RADE DE LORIENT;HENNEBONT;Colonie urbaine
+GdG-N;56;RADE DE LORIENT;LANESTER;Colonie urbaine
+GdG-N;56;RADE DE LORIENT;LORIENT;Colonie urbaine
+GdG-N;56;RADE DE LORIENT;RADE DE LORIENT;Colonies urbaines
+GdG-N;85;ILE DE NOIRMOUTIER;ILE DE NOIRMOUTIER;Colonies urbaines
+GdG-N;85;LITTORAL VENDEEN - 2;Fenouiller (Le);Agglomération St Gilles/St Hilaire
+GdG-N;85;LITTORAL VENDEEN - 2;Saint-Gilles-Croix-de-Vie;Colonie urbaine
+GdG-N;85;LITTORAL VENDEEN - 2;Saint-Hilaire-de-Riez;Colonie urbaine
+GdG-N;85;LITTORAL VENDEEN - 3;Olonne-sur-Mer;Agglomération sablaise
+GdG-N;85;LITTORAL VENDEEN - 3;Sables-d'Olonne (Les);Agglomération sablaise
+MC;22;BAIE DE SAINT BRIEUC;langueux;Colonie urbaine
+MC;22;BAIE DE SAINT BRIEUC;pleneuf-val-andre;Colonie urbaine
+MC;22;BAIE DE SAINT BRIEUC;Saint Brieuc;Colonie urbaine
+MC;22;COTE DU GOELO - Anse de Paimpol;Ville de Paimpol;Colonie urbaine
+MC;22;ROCHES DE SAINT QUAY - Ville de Saint-Quay-Portrieux;Ville de Saint-Quay-Portrieux;Colonie urbaine
+MC;22;ROCHES DE SAINT QUAY - Ville d'Etables-sur-mer;Ville d'Etables-sur-mer;Colonie urbaine
+MC;29;AULNE ESTUARIENNE;ecole navale lanveoc;Colonie urbaine
+MC;29;BAIE DE MORLAIX;MORLAIX;Colonie urbaine
+MC;29;BAIE DE MORLAIX;SAINT-MARTIN-DES-CHAMPS;Colonie urbaine
+MC;29;CAP SIZUN;DOUARNENEZ;Colonie urbaine
+MC;29;ILE DE BATZ;Centre H;Colonie urbaine
+MC;29;ILE DE BATZ;ROSCOFF;Colonie urbaine
+MC;29;POINTE SAINT MATHIEU;LE CONQUET;Colonie urbaine
+MC;29;RADE DE BREST;BREST;Colonie urbaine
+MC;29;RADE DE BREST;BREST;port de commerce - ducs d'Albe
+MC;29;RADE DE BREST;BREST;port de commerce - gabion
+MC;29;RADE DE BREST;BREST;port de commerce - quai  n°3
+MC;29;RADE DE BREST;GOUESNOU;Colonie urbaine
+MC;29;RADE DE BREST;LE RELECQ-KERHUON;Colonie urbaine
+MC;35;GRANDE RADE DE SAINT MALO;Dinard;Colonie urbaine
+MC;35;GRANDE RADE DE SAINT MALO;Ville de Saint-Malo;intra-muros + extra-muros + Saint Servan + Paramé + Rothéneuf
+MMdN;14;CALVADOS CÔTE DE NACRE;CALVADOS CÔTE DE NACRE;Colonies urbaines
+MMdN;14;CALVADOS CÔTE DE NACRE;Graye-sur-Mer Château;Colonies urbaines
+MMdN;14;CALVADOS CÔTE DE NACRE;Port-en-Bessin;Colonies urbaines
+MMdN;14;CALVADOS CÔTE DE NACRE;Ville de Courseulles-sur-Mer;Colonies urbaines
+MMdN;14;CALVADOS CÔTE FLEURIE;CALVADOS CÔTE FLEURIE;Colonies urbaines
+MMdN;14;CALVADOS CÔTE FLEURIE;Ville de Deauville;Colonies urbaines
+MMdN;14;CALVADOS CÔTE FLEURIE;Ville de Trouville;Colonies urbaines
+MMdN;50;BAIE DU MONT-SAINT-MICHEL;Mont-Saint-Michel;Colonies urbaines
+MMdN;50;CÔTE EST-COTENTIN;CÔTE EST-COTENTIN;Colonies urbaines
+MMdN;50;CÔTE EST-COTENTIN;Saint-Vaast-la-Hougue;Colonies urbaines
+MMdN;50;CÔTE OUEST-COTENTIN;CÔTE OUEST-COTENTIN;Colonies urbaines
+MMdN;50;CÔTE OUEST-COTENTIN;Granville;Colonies urbaines
+MMdN;50;COTENTIN CONTINENTAL;COTENTIN CONTINENTAL;Colonies urbaines
+MMdN;50;LA HAGUE;Jobourg Usine AREVA;Colonies urbaines
+MMdN;50;RADE DE CHERBOURG;Agglomération de Cherbourg-Octeville;Colonies urbaines
+MMdN;59;FLANDRE MARITIME (59);Dunkerque;Arcellor Mittal
+MMdN;59;FLANDRE MARITIME (59);Dunkerque;port est
+MMdN;59;FLANDRE MARITIME (59);Dunkerque;usine alumine Rio tinto
+MMdN;59;FLANDRE MARITIME (59);Dunkerque;ville
+MMdN;59;FLANDRE MARITIME (59);FLANDRE MARITIME;Colonies urbaines
+MMdN;59;FLANDRE MARITIME (59);Gravelines;comilog
+MMdN;59;FLANDRE MARITIME (59);Gravelines;ex raffinerie SRD
+MMdN;59;FLANDRE MARITIME (59);Gravelines;port
+MMdN;59;FLANDRE MARITIME (59);Loon plage;Capitainerie
+MMdN;59;FLANDRE MARITIME (59);Loon plage;port
+MMdN;62;BOULONNAIS (62);Boulogne-sur-mer;Ville basse
+MMdN;62;BOULONNAIS (62);"Boulogne-sur-Mer ; Le Portel";port
+MMdN;62;BOULONNAIS (62);"Boulogne-sur-Mer ; Le Portel ; Outreau";port
+MMdN;62;BOULONNAIS (62);Outreau;Colonie urbaine
+MMdN;62;FLANDRE MARITIME (62);Calais;Calais-ville
+MMdN;62;FLANDRE MARITIME (62);Calais;port
+MMdN;62;FLANDRE MARITIME (62);Calais;Umicore
+MMdN;62;FLANDRE MARITIME (62);Calais;zone résidentielle
+MMdN;62;FLANDRE MARITIME (62);Coquelles;Eurotunnel
+MMdN;62;PICARDIE MARITIME (62);Merlimont;ville
+MMdN;62;PICARDIE MARITIME (62);Picardie maritime;Colonies urbaines
+MMdN;76;ESTUAIRE SEINE;Sainte-Adresse;Colonies urbaines
+MMdN;76;ESTUAIRE SEINE;Ville du Havre;Colonies urbaines
+MMdN;76;PAYS DE CAUX; Ville de Tréport - Eu ;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Centrale de Paluel;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Centrale de Penly;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Etretat;Colonies urbaines
+MMdN;76;PAYS DE CAUX;PAYS DE CAUX;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Port d'Antifer;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Ville de Dieppe;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Ville de Eu;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Ville de Fécamp;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Ville de Saint-Valery-en-Caux;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Ville du Tréport;Colonies urbaines
+MMdN;76;PAYS DE CAUX;Yport;Colonies urbaines
+MMdN;80;FALAISES D'AULT;AULT;ville
+MMdN;80;FALAISES D'AULT;MERS-LES-BAINS;bâtiments industriels
+MMdN;80;FALAISES D'AULT;MERS-LES-BAINS;ville
+MMdN;80;PICARDIE MARITIME (80);CAYEUX-SUR-MER;ville
+MMdN;80;PICARDIE MARITIME (80);FORT-MAHON-PLAGE;ville
+MMdN;50;CÔTE OUEST-COTENTIN;Centrale  et ponton mine de Flamanville;
+MMdN;59;FLANDRE MARITIME (59);Dunkerque;Glencore-manganèse
+MMdN;59;FLANDRE MARITIME (59);Dunkerque;Malo-terminus
+MMdN;62;FLANDRE MARITIME (62);Calais;friches

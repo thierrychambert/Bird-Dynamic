@@ -1,0 +1,29 @@
+Species;Espece;Max_km;Mean Max_km;SD_mean_max;Mean_km;SD_mean;Category;Confidence
+Common eider;Eider à duvet;22.5;21.5;NA;3.2;4.2;Indirect;Poor
+Red-throated diver;Plongeon catmarin;9;9;NA;4.5;NA;Direct;Low
+European storm petrel;Océanite tempête;336;336;NA;NA;NA;Direct;Poor
+Leach's storm petrel;Océanite cul-blanc;NA;NA;NA;657;NA;Direct;Moderate
+Northern Fulmar;Fulmar boréal;2736;542.3;657.9;134.6;90.1;Direct;Good
+Manx shearwater;Puffin des anglais;2890;1346.8;1018.7;136.1;88.7;Direct;Moderate
+Northern Gannet;Fou de bassan;709;315.2;194.2;120.4;50;Direct;Highest
+European shag;Cormoran huppé;46;13.2;10.5;9.2;4.9;Direct;Highest
+Cormorant;Grand cormoran;35;25.6;8.3;7.1;3.8;Direct;Moderate
+Black-legged kittiwake;Mouette tridactyle;770;156.1;144.5;54.7;50.4;Direct;Good
+Black-headed gull;Mouette rieuse;18.5;18.5;NA;7;NA;Direct;Uncertain
+Mediterranean gull;Mouette mélanocéphale;20;20;NA;11.5;NA;Survey;Uncertain
+Common gull;Goéland cendré;50;50;NA;NA;NA;Survey;Poor
+Great black-backed gull;Goéland marin;73;73;NA;16.7;NA;Direct;Low
+Herring gull;Goéland argenté;92;58.8;26.8;14.9;7.5;Direct;Good
+Lesser blackbacked gull;Goéland brun;533;127;109;43.3;18.4;Direct;Highest
+Sandwich tern;Sterne caugek;80;34.3;23.2;9;9.2;Direct;Moderate
+Little tern;Sterne naine;5;5;NA;3.5;NA;Direct;Moderate
+Roseate tern;Sterne de Dougall;24;12.6;10.6;4.1;2.6;Direct;Moderate
+Common tern;Sterne pierregarin;30;18;8.9;6.4;4.5;Direct;Good
+Arctic tern;Sterne arctique;46;25.7;14.8;6.1;4.4;Direct;Good
+Great skua;Grand labbe ;1003;443.3;487.9;67;31.5;Direct;Uncertain
+Arctic skua;Labbe parasite;NA;NA;NA;2;0.7;Survey;Poor
+Common guillemot;Guillemot de Troïl;338;73.2;80.5;33.1;36.5;Direct;Highest
+Razorbill;Pingouin torda;313;88.7;75.9;61.3;33.4;Direct;Good
+Black guillemot;Guillemot à miroir;8;4.8;4.3;4.9;NA;Direct;Moderate
+Atlantic puffin;Macareux moine;383;137.1;128.3;62.4;34.4;Direct;Good
+Yellow-legged gull;Goéland leucophée;92;58.8;26.8;14.9;7.5;NA;Copie_Goeland_Argente

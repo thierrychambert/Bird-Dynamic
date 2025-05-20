@@ -1,0 +1,26 @@
+Num;espece_BD;Nom_english;priority;Nom_latin;Nom_latin_2;in_BirdRisk;in_STRATECH
+1;Fou de Bassan;Northern Gannet;1;Morus bassanus;NA;yes;yes
+2;Goéland marin;Great Black backed Gull;1;Larus marinus;NA;yes;yes
+3;Mouette tridactyle;Black legged Kittiwake;1;Rissa tridactyla;NA;yes;yes
+4;Cormoran huppé;European Shag;1;Phalacrocorax aristotelis;Gulosus aristotelis;yes;yes
+5;Goéland brun;Lesser Black Backed Gull;1;Larus fuscus;NA;yes;yes
+6;Goéland argenté;Herring Gull;1;Larus argentatus;NA;yes;yes
+7;Puffin des Baléares;Balearic Shearwater;1;Puffinus mauretanicus;NA;yes;no
+8;Grand cormoran;Cormorant;2;Phalacrocorax carbo;NA;yes;yes
+9;Mouette mélanocéphale;Mediterranean Gull;2;Ichthyaetus melanocephalus;Larus melanocephalus;yes;yes
+10;Mouette rieuse;Black headed Gull;2;Chroicocephalus ridibundus;Larus ridibundus;yes;yes
+11;Sterne de Dougall;Roseate Tern;2;Sterna dougallii;NA;yes;yes
+12;Goéland cendré;Common Gull;2;Larus canus;NA;yes;yes
+13;Sterne caugek;Sandwich Tern;2;Thalasseus sandvicensis;NA;yes;yes
+14;Sterne pierregarin;Common Tern;2;Sterna hirundo;NA;yes;yes
+15;Pingouin torda;Razorbill;2;Alca torda;NA;yes;yes
+16;Guillemot de Troïl;Common Guillemot;2;Uria aalge;NA;yes;yes
+17;Guifette noire;Black Tern;2;Chlidonias niger;NA;yes;no
+18;Océanite tempête;European storm petrel;3;Hydrobates pelagicus;NA;no;yes
+19;Goéland leucophée;Yellow-legged gull;3;Larus michahellis;NA;no;yes
+20;Fulmar boréal;Northern fulmar;3;Fulmarus glacialis;NA;no;yes
+21;Puffin des Anglais;Manx shearwater;3;Puffinus puffinus;NA;no;yes
+22;Macareux moine;Atlantic puffin;3;Fratercula arctica;NA;no;yes
+23;Labbe parasite;Arctic Skua;4;Stercorarius parasiticus;NA;yes;no
+24;Mouette pygmée;Little Gull;4;Hydrocoloeus minutus;NA;yes;no
+25;Plongeon arctique;Black throated Diver;4;Gavia arctica;NA;yes;no
