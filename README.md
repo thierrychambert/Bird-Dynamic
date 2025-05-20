@@ -10,7 +10,7 @@ Etape 2 : Analyse d’impact des collisions
 Dans le dossier « 00_Run Analyses », lancer le script « 02_simulations with collision impact.R ».
 Pour sélectionner l’espèce à analyser, il suffit de changer la valeur « sel_esp » sur la ligne 10 de ce script. La numérotation des espèces est indiquée ci-dessous (info visible dans R dans l’objet « BD_list$espece_BD ») 
 Veillez à fournir vos propres données d’estimation des mortalités par espèce, par les parcs éoliens concernés. Ces données doivent être fournies en format .csv dans le dossier « 000_Inputs\data mortality ». Il faut un fichier csv par espèce. 
-Les données de mortalités, issues du projet Bird RISK et utilisés dans le projet Bird Dynamic sont fournies dans ce dossier. Vous pouvez vous baser sur ces fichiers csv espèce-spécifiques (numérotés de 01 à 17) pour voir le format à respecter.
+Un fichier réduit des données de mortalités sur le Cormoran huppé (espèce #04) issues du projet Bird RISK et utilisés dans le projet Bird Dynamic sont fournies dans ce dossier à titre d’exemple. Vous pouvez vous baser sur ce fichier csv pour voir le format à respecter.
 
 Numérotation des espèces :
 1	Fou de Bassan
